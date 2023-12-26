@@ -1,0 +1,27 @@
+_repo: Rusticus-b-Or-the-future-of-the-countryside_72263
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Briggs, Martin S.
+    gutenberg_agent_id: '56624'
+    url: http://www.gutenberg.org/2009/agents/56624
+description: ''
+gutenberg_issued: '2023-11-29'
+identifiers:
+  gutenberg: '72263'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3136821
+pgterms:marc905: 20230201052956briggs
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bKegan Paul, Trench, Trubner & Co., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Rusticus : $b Or, the future of the countryside'
+url: http://www.gutenberg.org/ebooks/72263
